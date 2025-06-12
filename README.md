@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou a TBA</h1>
+<h1 align="center">Olá 👋, eu sou TBA</h1>
 <p align="center">
   <img src="https://img.pikbest.com/backgrounds/20190319/original-square-rhombus-pure-black-banner-background_2752217.jpg!bwr800" alt="Banner" width="100%" />
 </p>
