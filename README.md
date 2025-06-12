@@ -4,7 +4,7 @@
 </p>
 
 # Bem-vindo ao meu oceano de ideias!
-## Aqui você vai encontrar arte, código, experimentos e muita paixão pelo que faço.
+> Aqui você vai encontrar arte, código, experimentos e muita paixão pelo que faço.
 
 ---
 ## Tecnologias & Ferramentas
@@ -29,6 +29,7 @@
 ## Como falar comigo?
 * Email: [kharenaguiar@gmail.com](mailto:kharenaguiar@gmail.com)
 * Instagram: [TBAbestkid](https://instagram.com/tbabestkid_)
+* X: [TBAbestkid](https://x.com/tbestkid)
 * Site pessoal: [Meu Oceano](https://tbabestkid.github.io/MeuOceano/)
 ---
 ## Curiosidades
